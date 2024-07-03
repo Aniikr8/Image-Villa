@@ -9,7 +9,7 @@ Image Villa is a React application that allows users to search and browse high-q
 * Easy navigation and user-friendly interface
 
 <h2> Screen Shot & Demo </h2>
-<img src = "https://github.com/Aniikr8/Image-Villa/assets/74367440/5f2ba727-9839-4e9e-9a8e-adf461e9d503" width="500" height="300">
+<img src = "https://github.com/Aniikr8/Image-Villa/assets/74367440/5f2ba727-9839-4e9e-9a8e-adf461e9d503" width="580" height="300">
 
 * Live Demo : <A href = "https://picsavilla.netlify.app/" > https://picsavilla.netlify.app/</a>
 
