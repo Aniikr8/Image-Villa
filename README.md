@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Image Villa
+Image Villa is a React application that allows users to search and browse high-quality images using the Unsplash API. It provides a clean and responsive interface for viewing and interacting with images.
+
+
+## Features
+* Search for images by keyword
+* Infinite scrolling for seamless image browsing
+* Responsive design for mobile and desktop
+* Easy navigation and user-friendly interface
+
+<h2> Screen Shot & Demo </h2>
+<img src = "https://github.com/Aniikr8/Image-Villa/assets/74367440/5f2ba727-9839-4e9e-9a8e-adf461e9d503" width="580" height="300">
+
+* Live Demo : <A href = "https://picsavilla.netlify.app/" > https://picsavilla.netlify.app/</a>
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
